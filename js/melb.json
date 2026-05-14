@@ -1,0 +1,120 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Species Persistence in Victoria (SA2)",
+    "subtitle": "Interactive Maps for Birds, Fungi, Plants, and Reptiles",
+    "anchor": "start",
+    "fontSize": 16
+  },
+  "repeat": ["Birds", "Fungi", "Plants", "Reptiles"],
+  "columns": 2,
+  "params": [
+    {
+      "name": "Year_Selection",
+      "value": 2024,
+      "bind": {
+        "input": "range", 
+        "min": 2010, 
+        "max": 2024, 
+        "step": 2, 
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "config": {
+    "view": {"fill": "lightblue", "stroke": null}
+  },
+  "spec": {
+    "width": 400,
+    "height": 300,
+    "projection": {
+      "type": "equirectangular",
+      "center": [144.2, -37.3],
+      "scale": 12500
+    },
+    "layer": [
+      {
+        "description": "Base Map layer for Victoria (shows grey where no data exists)",
+        "data": {
+          "url": "data/aus_map.topojson",
+          "format": {"type": "topojson", "feature": "SA2_2021_AUST_GDA2020"}
+        },
+        "transform": [
+          {"filter": "datum.properties.STE_NAME21 == 'Victoria'"},
+          {
+            "calculate": "'Data is not available in ' + datum.properties.SA2_NAME21",
+            "as": "note"
+          }
+        ],
+        "mark": {
+          "type": "geoshape",
+          "fill": "#e0e0e0",
+          "stroke": "white",
+          "strokeWidth": 0.5
+        },
+        "encoding": {
+          "tooltip": [
+            {"field": "properties.SA2_NAME21", "type": "nominal", "title": "SA2 Name"}
+          ]
+        }
+      },
+      {
+        "description": "Species Data Layer",
+        "data": {
+          "url": "data/biodiversity_sa2.csv",
+          "format": {"type": "csv", "parse": {"Region": "string"}}
+        },
+        "transform": [
+          {
+            "filter": "datum.Year == Year_Selection"
+          },
+          {
+            "lookup": "Region",
+            "from": {
+              "data": {
+                "url": "data/aus_map.topojson",
+                "format": {"type": "topojson", "feature": "SA2_2021_AUST_GDA2020"}
+              },
+              "key": "properties.SA2_CODE21"
+            },
+            "as": "geo"
+          },
+          {"filter": "datum.geo != null"},
+          {"filter": "datum.geo.properties.STE_NAME21 == 'Victoria'"}
+        ],
+        "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.5},
+        "encoding": {
+          "shape": {"field": "geo", "type": "geojson"},
+          "color": {
+            "field": {"repeat": "repeat"},
+            "type": "quantitative",
+            "scale": {
+              "domain": [0.675, 0.825],
+              "scheme": "greens"
+            },
+            "legend": {"title": "Index", "orient": "right", "format": ".2f"}
+          },
+          "tooltip": [
+            {"field": "geo.properties.SA2_NAME21", "type": "nominal", "title": "SA2 Name"},
+            {"field": "Year", "type": "quantitative", "title": "Year"},
+            {"field": {"repeat": "repeat"}, "type": "quantitative", "title": "Index Value", "format": ".3f"}
+          ]
+        }
+      },
+      {
+        "description": "Chart Title overlay",
+        "data": {
+          "values": [{"Birds": "Birds", "Reptiles": "Reptiles", "Fungi" : "Fungi", "Plants": "Plants"}]
+        },
+        "mark": {
+          "type": "text",
+          "align": "right",
+          "baseline": "bottom",
+          "x": "width",
+          "y": 0
+        },
+        "encoding": {"text": {"field": {"repeat": "repeat"}}}
+      }
+    ]
+  }
+}

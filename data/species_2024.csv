@@ -1,0 +1,46 @@
+Region,Year,Count,Type,Area_km2
+Australian Capital Territory,2024,244,Bird,2358
+New South Wales,2024,528,Bird,800642
+Northern Territory,2024,388,Bird,1349129
+Other Territories,2024,148,Bird,250
+Queensland,2024,555,Bird,1730648
+South Australia,2024,426,Bird,983482
+Tasmania,2024,227,Bird,68401
+Victoria,2024,415,Bird,227416
+Western Australia,2024,441,Bird,2529875
+Australian Capital Territory,2024,7946,Fungi,2358
+New South Wales,2024,28120,Fungi,800642
+Northern Territory,2024,26716,Fungi,1349129
+Other Territories,2024,2298,Fungi,250
+Queensland,2024,29849,Fungi,1730648
+South Australia,2024,26102,Fungi,983482
+Tasmania,2024,15561,Fungi,68401
+Victoria,2024,19169,Fungi,227416
+Western Australia,2024,34372,Fungi,2529875
+Australian Capital Territory,2024,2394,Plant,2358
+New South Wales,2024,5954,Plant,800642
+Northern Territory,2024,4381,Plant,1349129
+Other Territories,2024,735,Plant,250
+Queensland,2024,8095,Plant,1730648
+South Australia,2024,3341,Plant,983482
+Tasmania,2024,1883,Plant,68401
+Victoria,2024,3647,Plant,227416
+Western Australia,2024,9523,Plant,2529875
+Australian Capital Territory,2024,53,Reptile,2358
+New South Wales,2024,265,Reptile,800642
+Northern Territory,2024,325,Reptile,1349129
+Other Territories,2024,23,Reptile,250
+Queensland,2024,448,Reptile,1730648
+South Australia,2024,228,Reptile,983482
+Tasmania,2024,21,Reptile,68401
+Victoria,2024,101,Reptile,227416
+Western Australia,2024,510,Reptile,2529875
+Australian Capital Territory,2024,10637,Total,2358
+New South Wales,2024,34866,Total,800642
+Northern Territory,2024,31811,Total,1349129
+Other Territories,2024,3203,Total,250
+Queensland,2024,38948,Total,1730648
+South Australia,2024,30097,Total,983482
+Tasmania,2024,17692,Total,68401
+Victoria,2024,23332,Total,227416
+Western Australia,2024,44846,Total,2529875

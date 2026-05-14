@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Lollipop chart showing change in threatened species between 2010 and 2023.",
+  "data": {
+    "url": "data/threatened_dumbbell.csv"
+  },
+  "title": {
+    "text": "Change in Threatened Species (2010 vs 2023)",
+    "subtitle": "Connecting the counts for 2010 and 2023 to show the growth in threatened species",
+    "anchor": "start"
+  },
+  "width": 500,
+  "height": 300,
+  "encoding": {
+    "y": {
+      "field": "Group",
+      "type": "nominal",
+      "title": "Taxonomic Group",
+      "sort": "-x"
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "rule", "color": "#dcdcdc", "size": 2},
+      "encoding": {
+        "x": {"field": "Year_2010", "type": "quantitative"},
+        "x2": {"field": "Year_2023"}
+      }
+    },
+    {
+      "mark": {"type": "circle", "size": 100, "opacity": 1},
+      "encoding": {
+        "x": {"field": "Year_2010", "type": "quantitative", "title": "Number of Species"},
+        "color": {"datum": "2010", "scale": {"range": ["#4c78a8", "#e15759"]}},
+        "tooltip": [
+          {"field": "Group", "type": "nominal"},
+          {"field": "Year_2010", "type": "quantitative", "title": "2010 Count"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "circle", "size": 100, "opacity": 1},
+      "encoding": {
+        "x": {"field": "Year_2023", "type": "quantitative"},
+        "color": {"datum": "2023"},
+        "tooltip": [
+          {"field": "Group", "type": "nominal"},
+          {"field": "Year_2023", "type": "quantitative", "title": "2023 Count"}
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false},
+    "legend": {"title": "Year", "orient": "bottom"}
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Reptile Species Persistence in Melbourne (SA2)",
+  "width": 800,
+  "height": 600,
+  "projection": {
+    "type": "mercator",
+    "center": [145.0, -37.85],
+    "scale": 45000
+  },
+  "params": [
+    {
+      "name": "Year_Selection",
+      "value": 2024,
+      "bind": {
+        "input": "range", "min": 1990, "max": 2024, "step": 1, "name": "Select Year: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "data/aus_map.topojson",
+        "format": {"type": "topojson", "feature": "SA2_2021_AUST_GDA2020"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e0e0e0",
+        "stroke": "white",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "color": {
+          "datum": "No Data",
+          "scale": {"range": ["#e0e0e0"]},
+          "legend": {"title": null, "orient": "right", "offset": 10}
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/aus_map.topojson",
+        "format": {"type": "topojson", "feature": "SA2_2021_AUST_GDA2020"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.SA2_CODE21",
+          "from": {
+            "data": {
+              "url": "data/fungi_sa2.csv",
+              "format": {"type": "csv", "parse": {"Region": "string"}}
+            },
+            "key": "Region",
+            "fields": ["X1990", "X1991", "X1992", "X1993", "X1994", "X1995", "X1996", "X1997", "X1998", "X1999", "X2000", "X2001", "X2002", "X2003", "X2004", "X2005", "X2006", "X2007", "X2008", "X2009", "X2010", "X2011", "X2012", "X2013", "X2014", "X2015", "X2016", "X2017", "X2018", "X2019", "X2020", "X2021", "X2022", "X2023", "X2024"]
+          }
+        },
+        {
+          "calculate": "datum['X' + Year_Selection]",
+          "as": "Persistence"
+        },
+        {"filter": "datum.Persistence != null"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.5},
+      "encoding": {
+        "color": {
+          "field": "Persistence",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0.8, 0.81, 0.82, 0.83],
+            "range": ["#ffffcc", "#c2e699", "#78c679", "#31a354", "#006837"]
+          },
+          "legend": {"title": "Proportion", "orient": "right"}
+        },
+        "tooltip": [
+          {"field": "properties.SA2_NAME21", "type": "nominal", "title": "SA2 Name"},
+          {"field": "Persistence", "type": "quantitative", "title": "Persistence", "format": ".3f"}
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {"fill": "lightblue", "stroke": null}
+  }
+}

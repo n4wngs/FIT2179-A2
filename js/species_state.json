@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Species Count vs. Land Area (2024)",
+    "subtitle": "Comparison across Australian Regions",
+    "anchor": "start",
+    "fontSize": 16
+  },
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "data/species_2024.csv"
+  },
+  "params": [
+    {
+      "name": "Type_Selection",
+      "value": "Total",
+      "bind": {
+        "input": "select",
+        "options": ["Total", "Bird", "Fungi", "Plant", "Reptile"],
+        "name": "Species Category: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Type == Type_Selection"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "size": 180,
+        "opacity": 0.7,
+        "stroke": "black",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "Area_km2",
+          "type": "quantitative",
+          "title": "Area (sq km)",
+          "scale": {"type": "log", "padding": 40},
+          "axis": {
+            "grid": true,
+            "gridColor": "#ddd",
+            "gridDash": [2, 2],
+            "tickCount": 5,
+            "format": "~s"
+          }
+        },
+        "y": {
+          "field": "Count",
+          "type": "quantitative",
+          "title": "Number of Species",
+          "scale": {"type": "log", "padding": 40},
+          "axis": {
+            "grid": true,
+            "gridColor": "#ddd",
+            "gridDash": [2, 2],
+            "tickCount": 5,
+            "format": "~s"
+          }
+        },
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "legend": {"orient": "right", "title": "State/Territory"},
+          "scale": {"scheme": "tableau10"}
+        },
+        "tooltip": [
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Type", "type": "nominal", "title": "Category"},
+          {"field": "Count", "type": "quantitative", "title": "Species Count", "format": ","},
+          {"field": "Area_km2", "type": "quantitative", "title": "Area (sq km)", "format": ","}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 12,
+        "fontSize": 10,
+        "fontWeight": "lighter"
+      },
+      "encoding": {
+        "x": {"field": "Area_km2", "type": "quantitative"},
+        "y": {"field": "Count", "type": "quantitative"},
+        "text": {"field": "Region", "type": "nominal"},
+        "color": {"value": "#333"}
+      }
+    }
+  ],
+  "config": {
+    "background": "#ffffff",
+    "view": {"stroke": "transparent"},
+    "axis": {
+      "domain": false,
+      "ticks": false,
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}

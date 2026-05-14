@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "data": {
+    "url": "data/tsx.csv",
+    "format": {
+      "parse": {
+        "Year": "date"
+      }
+    }
+  },
+  "width": 650,
+  "height": 300,
+  "layer": [
+    {
+      "description": "Invisible point layer for interaction",
+      "params": [{
+        "name": "index",
+        "value": [{"x": {"year": 2005, "month": 1, "date": 1}}],
+        "select": {
+          "type": "point",
+          "encodings": ["x"],
+          "on": "pointerover",
+          "nearest": true
+        }
+      }],
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal", "axis": null},
+        "opacity": {"value": 0}
+      }
+    },
+    {
+      "description": "Line chart",
+      "transform": [
+        {
+          "lookup": "Group",
+          "from": {"param": "index", "key": "Group"},
+          "as": "base_data"
+        },
+        {
+          "calculate": "datum.base_data && datum.base_data.IndexValue > 0 ? datum.IndexValue / datum.base_data.IndexValue : datum.IndexValue",
+          "as": "indexed_value"
+        }
+      ],
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "Year", 
+          "type": "temporal",
+          "axis": null
+        },
+        "y": {
+          "field": "indexed_value", 
+          "type": "quantitative",
+          "axis": {"format": ".2f"},
+          "title": "Relative Index"
+        },
+        "color": {"field": "Group", "type": "nominal"}
+      }
+    },
+    {
+      "description": "Red tracking line and text",
+      "transform": [{"filter": {"param": "index"}}],
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal", "axis": null},
+        "color": {"value": "firebrick"}
+      },
+      "layer": [
+        {"mark": {"type": "rule", "strokeWidth": 1.5}},
+        {
+          "mark": {"type": "text", "align": "center", "fontWeight": "bold"},
+          "encoding": {
+            "text": {"field": "Year", "timeUnit": "year"},
+            "y": {"value": 310}
+          }
+        }
+      ]
+    }
+  ]
+}

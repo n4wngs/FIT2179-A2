@@ -1,0 +1,1621 @@
+Region,Year,Count,Type,Area_km2
+Australian Capital Territory,1750,300,Bird,2358
+New South Wales,1750,634,Bird,800642
+Northern Territory,1750,428,Bird,1349129
+Other Territories,1750,184,Bird,250
+Queensland,1750,639,Bird,1730648
+South Australia,1750,478,Bird,983482
+Tasmania,1750,278,Bird,68401
+Victoria,1750,518,Bird,227416
+Western Australia,1750,484,Bird,2529875
+Australian Capital Territory,1990,239,Bird,2358
+New South Wales,1990,519,Bird,800642
+Northern Territory,1990,391,Bird,1349129
+Other Territories,1990,146,Bird,250
+Queensland,1990,556,Bird,1730648
+South Australia,1990,422,Bird,983482
+Tasmania,1990,219,Bird,68401
+Victoria,1990,407,Bird,227416
+Western Australia,1990,443,Bird,2529875
+Australian Capital Territory,1991,239,Bird,2358
+New South Wales,1991,521,Bird,800642
+Northern Territory,1991,391,Bird,1349129
+Other Territories,1991,145,Bird,250
+Queensland,1991,555,Bird,1730648
+South Australia,1991,423,Bird,983482
+Tasmania,1991,220,Bird,68401
+Victoria,1991,407,Bird,227416
+Western Australia,1991,443,Bird,2529875
+Australian Capital Territory,1992,239,Bird,2358
+New South Wales,1992,524,Bird,800642
+Northern Territory,1992,391,Bird,1349129
+Other Territories,1992,146,Bird,250
+Queensland,1992,558,Bird,1730648
+South Australia,1992,424,Bird,983482
+Tasmania,1992,220,Bird,68401
+Victoria,1992,409,Bird,227416
+Western Australia,1992,442,Bird,2529875
+Australian Capital Territory,1993,241,Bird,2358
+New South Wales,1993,530,Bird,800642
+Northern Territory,1993,391,Bird,1349129
+Other Territories,1993,146,Bird,250
+Queensland,1993,560,Bird,1730648
+South Australia,1993,426,Bird,983482
+Tasmania,1993,222,Bird,68401
+Victoria,1993,413,Bird,227416
+Western Australia,1993,442,Bird,2529875
+Australian Capital Territory,1994,242,Bird,2358
+New South Wales,1994,533,Bird,800642
+Northern Territory,1994,392,Bird,1349129
+Other Territories,1994,147,Bird,250
+Queensland,1994,562,Bird,1730648
+South Australia,1994,428,Bird,983482
+Tasmania,1994,222,Bird,68401
+Victoria,1994,415,Bird,227416
+Western Australia,1994,442,Bird,2529875
+Australian Capital Territory,1995,242,Bird,2358
+New South Wales,1995,531,Bird,800642
+Northern Territory,1995,391,Bird,1349129
+Other Territories,1995,147,Bird,250
+Queensland,1995,561,Bird,1730648
+South Australia,1995,428,Bird,983482
+Tasmania,1995,223,Bird,68401
+Victoria,1995,415,Bird,227416
+Western Australia,1995,442,Bird,2529875
+Australian Capital Territory,1996,241,Bird,2358
+New South Wales,1996,530,Bird,800642
+Northern Territory,1996,391,Bird,1349129
+Other Territories,1996,146,Bird,250
+Queensland,1996,560,Bird,1730648
+South Australia,1996,427,Bird,983482
+Tasmania,1996,222,Bird,68401
+Victoria,1996,413,Bird,227416
+Western Australia,1996,441,Bird,2529875
+Australian Capital Territory,1997,240,Bird,2358
+New South Wales,1997,528,Bird,800642
+Northern Territory,1997,390,Bird,1349129
+Other Territories,1997,146,Bird,250
+Queensland,1997,558,Bird,1730648
+South Australia,1997,426,Bird,983482
+Tasmania,1997,221,Bird,68401
+Victoria,1997,411,Bird,227416
+Western Australia,1997,440,Bird,2529875
+Australian Capital Territory,1998,240,Bird,2358
+New South Wales,1998,527,Bird,800642
+Northern Territory,1998,390,Bird,1349129
+Other Territories,1998,146,Bird,250
+Queensland,1998,557,Bird,1730648
+South Australia,1998,426,Bird,983482
+Tasmania,1998,220,Bird,68401
+Victoria,1998,411,Bird,227416
+Western Australia,1998,441,Bird,2529875
+Australian Capital Territory,1999,241,Bird,2358
+New South Wales,1999,529,Bird,800642
+Northern Territory,1999,390,Bird,1349129
+Other Territories,1999,147,Bird,250
+Queensland,1999,558,Bird,1730648
+South Australia,1999,427,Bird,983482
+Tasmania,1999,221,Bird,68401
+Victoria,1999,413,Bird,227416
+Western Australia,1999,441,Bird,2529875
+Australian Capital Territory,2000,242,Bird,2358
+New South Wales,2000,528,Bird,800642
+Northern Territory,2000,390,Bird,1349129
+Other Territories,2000,147,Bird,250
+Queensland,2000,558,Bird,1730648
+South Australia,2000,427,Bird,983482
+Tasmania,2000,224,Bird,68401
+Victoria,2000,413,Bird,227416
+Western Australia,2000,440,Bird,2529875
+Australian Capital Territory,2001,244,Bird,2358
+New South Wales,2001,532,Bird,800642
+Northern Territory,2001,389,Bird,1349129
+Other Territories,2001,148,Bird,250
+Queensland,2001,558,Bird,1730648
+South Australia,2001,428,Bird,983482
+Tasmania,2001,225,Bird,68401
+Victoria,2001,416,Bird,227416
+Western Australia,2001,441,Bird,2529875
+Australian Capital Territory,2002,244,Bird,2358
+New South Wales,2002,535,Bird,800642
+Northern Territory,2002,389,Bird,1349129
+Other Territories,2002,148,Bird,250
+Queensland,2002,560,Bird,1730648
+South Australia,2002,429,Bird,983482
+Tasmania,2002,224,Bird,68401
+Victoria,2002,418,Bird,227416
+Western Australia,2002,442,Bird,2529875
+Australian Capital Territory,2003,242,Bird,2358
+New South Wales,2003,535,Bird,800642
+Northern Territory,2003,390,Bird,1349129
+Other Territories,2003,147,Bird,250
+Queensland,2003,562,Bird,1730648
+South Australia,2003,430,Bird,983482
+Tasmania,2003,224,Bird,68401
+Victoria,2003,417,Bird,227416
+Western Australia,2003,443,Bird,2529875
+Australian Capital Territory,2004,241,Bird,2358
+New South Wales,2004,534,Bird,800642
+Northern Territory,2004,391,Bird,1349129
+Other Territories,2004,147,Bird,250
+Queensland,2004,562,Bird,1730648
+South Australia,2004,431,Bird,983482
+Tasmania,2004,222,Bird,68401
+Victoria,2004,417,Bird,227416
+Western Australia,2004,443,Bird,2529875
+Australian Capital Territory,2005,240,Bird,2358
+New South Wales,2005,530,Bird,800642
+Northern Territory,2005,391,Bird,1349129
+Other Territories,2005,146,Bird,250
+Queensland,2005,561,Bird,1730648
+South Australia,2005,429,Bird,983482
+Tasmania,2005,220,Bird,68401
+Victoria,2005,413,Bird,227416
+Western Australia,2005,443,Bird,2529875
+Australian Capital Territory,2006,240,Bird,2358
+New South Wales,2006,532,Bird,800642
+Northern Territory,2006,391,Bird,1349129
+Other Territories,2006,147,Bird,250
+Queensland,2006,561,Bird,1730648
+South Australia,2006,430,Bird,983482
+Tasmania,2006,219,Bird,68401
+Victoria,2006,414,Bird,227416
+Western Australia,2006,442,Bird,2529875
+Australian Capital Territory,2007,240,Bird,2358
+New South Wales,2007,530,Bird,800642
+Northern Territory,2007,391,Bird,1349129
+Other Territories,2007,146,Bird,250
+Queensland,2007,560,Bird,1730648
+South Australia,2007,429,Bird,983482
+Tasmania,2007,219,Bird,68401
+Victoria,2007,412,Bird,227416
+Western Australia,2007,443,Bird,2529875
+Australian Capital Territory,2008,240,Bird,2358
+New South Wales,2008,531,Bird,800642
+Northern Territory,2008,390,Bird,1349129
+Other Territories,2008,147,Bird,250
+Queensland,2008,560,Bird,1730648
+South Australia,2008,429,Bird,983482
+Tasmania,2008,219,Bird,68401
+Victoria,2008,414,Bird,227416
+Western Australia,2008,443,Bird,2529875
+Australian Capital Territory,2009,240,Bird,2358
+New South Wales,2009,531,Bird,800642
+Northern Territory,2009,390,Bird,1349129
+Other Territories,2009,147,Bird,250
+Queensland,2009,559,Bird,1730648
+South Australia,2009,429,Bird,983482
+Tasmania,2009,221,Bird,68401
+Victoria,2009,414,Bird,227416
+Western Australia,2009,443,Bird,2529875
+Australian Capital Territory,2010,242,Bird,2358
+New South Wales,2010,530,Bird,800642
+Northern Territory,2010,390,Bird,1349129
+Other Territories,2010,147,Bird,250
+Queensland,2010,556,Bird,1730648
+South Australia,2010,428,Bird,983482
+Tasmania,2010,223,Bird,68401
+Victoria,2010,415,Bird,227416
+Western Australia,2010,443,Bird,2529875
+Australian Capital Territory,2011,244,Bird,2358
+New South Wales,2011,530,Bird,800642
+Northern Territory,2011,389,Bird,1349129
+Other Territories,2011,148,Bird,250
+Queensland,2011,555,Bird,1730648
+South Australia,2011,426,Bird,983482
+Tasmania,2011,224,Bird,68401
+Victoria,2011,416,Bird,227416
+Western Australia,2011,443,Bird,2529875
+Australian Capital Territory,2012,245,Bird,2358
+New South Wales,2012,529,Bird,800642
+Northern Territory,2012,389,Bird,1349129
+Other Territories,2012,149,Bird,250
+Queensland,2012,556,Bird,1730648
+South Australia,2012,426,Bird,983482
+Tasmania,2012,223,Bird,68401
+Victoria,2012,415,Bird,227416
+Western Australia,2012,443,Bird,2529875
+Australian Capital Territory,2013,244,Bird,2358
+New South Wales,2013,530,Bird,800642
+Northern Territory,2013,391,Bird,1349129
+Other Territories,2013,148,Bird,250
+Queensland,2013,560,Bird,1730648
+South Australia,2013,427,Bird,983482
+Tasmania,2013,221,Bird,68401
+Victoria,2013,414,Bird,227416
+Western Australia,2013,443,Bird,2529875
+Australian Capital Territory,2014,242,Bird,2358
+New South Wales,2014,530,Bird,800642
+Northern Territory,2014,391,Bird,1349129
+Other Territories,2014,147,Bird,250
+Queensland,2014,561,Bird,1730648
+South Australia,2014,428,Bird,983482
+Tasmania,2014,221,Bird,68401
+Victoria,2014,413,Bird,227416
+Western Australia,2014,443,Bird,2529875
+Australian Capital Territory,2015,241,Bird,2358
+New South Wales,2015,530,Bird,800642
+Northern Territory,2015,391,Bird,1349129
+Other Territories,2015,147,Bird,250
+Queensland,2015,562,Bird,1730648
+South Australia,2015,428,Bird,983482
+Tasmania,2015,221,Bird,68401
+Victoria,2015,412,Bird,227416
+Western Australia,2015,442,Bird,2529875
+Australian Capital Territory,2016,242,Bird,2358
+New South Wales,2016,526,Bird,800642
+Northern Territory,2016,390,Bird,1349129
+Other Territories,2016,147,Bird,250
+Queensland,2016,558,Bird,1730648
+South Australia,2016,426,Bird,983482
+Tasmania,2016,223,Bird,68401
+Victoria,2016,412,Bird,227416
+Western Australia,2016,441,Bird,2529875
+Australian Capital Territory,2017,242,Bird,2358
+New South Wales,2017,527,Bird,800642
+Northern Territory,2017,390,Bird,1349129
+Other Territories,2017,147,Bird,250
+Queensland,2017,558,Bird,1730648
+South Australia,2017,426,Bird,983482
+Tasmania,2017,223,Bird,68401
+Victoria,2017,412,Bird,227416
+Western Australia,2017,441,Bird,2529875
+Australian Capital Territory,2018,242,Bird,2358
+New South Wales,2018,529,Bird,800642
+Northern Territory,2018,390,Bird,1349129
+Other Territories,2018,147,Bird,250
+Queensland,2018,558,Bird,1730648
+South Australia,2018,427,Bird,983482
+Tasmania,2018,224,Bird,68401
+Victoria,2018,414,Bird,227416
+Western Australia,2018,442,Bird,2529875
+Australian Capital Territory,2019,242,Bird,2358
+New South Wales,2019,534,Bird,800642
+Northern Territory,2019,390,Bird,1349129
+Other Territories,2019,147,Bird,250
+Queensland,2019,560,Bird,1730648
+South Australia,2019,430,Bird,983482
+Tasmania,2019,225,Bird,68401
+Victoria,2019,416,Bird,227416
+Western Australia,2019,442,Bird,2529875
+Australian Capital Territory,2020,240,Bird,2358
+New South Wales,2020,528,Bird,800642
+Northern Territory,2020,391,Bird,1349129
+Other Territories,2020,146,Bird,250
+Queensland,2020,558,Bird,1730648
+South Australia,2020,428,Bird,983482
+Tasmania,2020,223,Bird,68401
+Victoria,2020,413,Bird,227416
+Western Australia,2020,442,Bird,2529875
+Australian Capital Territory,2021,240,Bird,2358
+New South Wales,2021,527,Bird,800642
+Northern Territory,2021,390,Bird,1349129
+Other Territories,2021,146,Bird,250
+Queensland,2021,557,Bird,1730648
+South Australia,2021,427,Bird,983482
+Tasmania,2021,221,Bird,68401
+Victoria,2021,411,Bird,227416
+Western Australia,2021,442,Bird,2529875
+Australian Capital Territory,2022,241,Bird,2358
+New South Wales,2022,525,Bird,800642
+Northern Territory,2022,390,Bird,1349129
+Other Territories,2022,147,Bird,250
+Queensland,2022,557,Bird,1730648
+South Australia,2022,426,Bird,983482
+Tasmania,2022,222,Bird,68401
+Victoria,2022,411,Bird,227416
+Western Australia,2022,441,Bird,2529875
+Australian Capital Territory,2023,244,Bird,2358
+New South Wales,2023,529,Bird,800642
+Northern Territory,2023,389,Bird,1349129
+Other Territories,2023,148,Bird,250
+Queensland,2023,557,Bird,1730648
+South Australia,2023,427,Bird,983482
+Tasmania,2023,225,Bird,68401
+Victoria,2023,415,Bird,227416
+Western Australia,2023,441,Bird,2529875
+Australian Capital Territory,2024,244,Bird,2358
+New South Wales,2024,528,Bird,800642
+Northern Territory,2024,388,Bird,1349129
+Other Territories,2024,148,Bird,250
+Queensland,2024,555,Bird,1730648
+South Australia,2024,426,Bird,983482
+Tasmania,2024,227,Bird,68401
+Victoria,2024,415,Bird,227416
+Western Australia,2024,441,Bird,2529875
+Australian Capital Territory,1750,9545,Fungi,2358
+New South Wales,1750,32861,Fungi,800642
+Northern Territory,1750,29788,Fungi,1349129
+Other Territories,1750,2764,Fungi,250
+Queensland,1750,34100,Fungi,1730648
+South Australia,1750,29668,Fungi,983482
+Tasmania,1750,18852,Fungi,68401
+Victoria,1750,22912,Fungi,227416
+Western Australia,1750,38818,Fungi,2529875
+Australian Capital Territory,1990,7834,Fungi,2358
+New South Wales,1990,27928,Fungi,800642
+Northern Territory,1990,26811,Fungi,1349129
+Other Territories,1990,2274,Fungi,250
+Queensland,1990,29843,Fungi,1730648
+South Australia,1990,25994,Fungi,983482
+Tasmania,1990,15334,Fungi,68401
+Victoria,1990,18991,Fungi,227416
+Western Australia,1990,34408,Fungi,2529875
+Australian Capital Territory,1991,7823,Fungi,2358
+New South Wales,1991,27925,Fungi,800642
+Northern Territory,1991,26802,Fungi,1349129
+Other Territories,1991,2266,Fungi,250
+Queensland,1991,29816,Fungi,1730648
+South Australia,1991,26007,Fungi,983482
+Tasmania,1991,15340,Fungi,68401
+Victoria,1991,18978,Fungi,227416
+Western Australia,1991,34392,Fungi,2529875
+Australian Capital Territory,1992,7821,Fungi,2358
+New South Wales,1992,27990,Fungi,800642
+Northern Territory,1992,26841,Fungi,1349129
+Other Territories,1992,2270,Fungi,250
+Queensland,1992,29881,Fungi,1730648
+South Australia,1992,26048,Fungi,983482
+Tasmania,1992,15347,Fungi,68401
+Victoria,1992,18998,Fungi,227416
+Western Australia,1992,34418,Fungi,2529875
+Australian Capital Territory,1993,7856,Fungi,2358
+New South Wales,1993,28141,Fungi,800642
+Northern Territory,1993,26865,Fungi,1349129
+Other Territories,1993,2280,Fungi,250
+Queensland,1993,29974,Fungi,1730648
+South Australia,1993,26144,Fungi,983482
+Tasmania,1993,15427,Fungi,68401
+Victoria,1993,19095,Fungi,227416
+Western Australia,1993,34489,Fungi,2529875
+Australian Capital Territory,1994,7884,Fungi,2358
+New South Wales,1994,28225,Fungi,800642
+Northern Territory,1994,26906,Fungi,1349129
+Other Territories,1994,2290,Fungi,250
+Queensland,1994,30045,Fungi,1730648
+South Australia,1994,26216,Fungi,983482
+Tasmania,1994,15469,Fungi,68401
+Victoria,1994,19157,Fungi,227416
+Western Australia,1994,34541,Fungi,2529875
+Australian Capital Territory,1995,7881,Fungi,2358
+New South Wales,1995,28176,Fungi,800642
+Northern Territory,1995,26859,Fungi,1349129
+Other Territories,1995,2288,Fungi,250
+Queensland,1995,29991,Fungi,1730648
+South Australia,1995,26195,Fungi,983482
+Tasmania,1995,15461,Fungi,68401
+Victoria,1995,19131,Fungi,227416
+Western Australia,1995,34487,Fungi,2529875
+Australian Capital Territory,1996,7857,Fungi,2358
+New South Wales,1996,28122,Fungi,800642
+Northern Territory,1996,26850,Fungi,1349129
+Other Territories,1996,2280,Fungi,250
+Queensland,1996,29958,Fungi,1730648
+South Australia,1996,26169,Fungi,983482
+Tasmania,1996,15412,Fungi,68401
+Victoria,1996,19082,Fungi,227416
+Western Australia,1996,34443,Fungi,2529875
+Australian Capital Territory,1997,7834,Fungi,2358
+New South Wales,1997,28054,Fungi,800642
+Northern Territory,1997,26775,Fungi,1349129
+Other Territories,1997,2279,Fungi,250
+Queensland,1997,29872,Fungi,1730648
+South Australia,1997,26092,Fungi,983482
+Tasmania,1997,15343,Fungi,68401
+Victoria,1997,19027,Fungi,227416
+Western Australia,1997,34357,Fungi,2529875
+Australian Capital Territory,1998,7831,Fungi,2358
+New South Wales,1998,28066,Fungi,800642
+Northern Territory,1998,26787,Fungi,1349129
+Other Territories,1998,2279,Fungi,250
+Queensland,1998,29872,Fungi,1730648
+South Australia,1998,26118,Fungi,983482
+Tasmania,1998,15330,Fungi,68401
+Victoria,1998,19044,Fungi,227416
+Western Australia,1998,34398,Fungi,2529875
+Australian Capital Territory,1999,7846,Fungi,2358
+New South Wales,1999,28107,Fungi,800642
+Northern Territory,1999,26781,Fungi,1349129
+Other Territories,1999,2284,Fungi,250
+Queensland,1999,29885,Fungi,1730648
+South Australia,1999,26158,Fungi,983482
+Tasmania,1999,15381,Fungi,68401
+Victoria,1999,19084,Fungi,227416
+Western Australia,1999,34404,Fungi,2529875
+Australian Capital Territory,2000,7876,Fungi,2358
+New South Wales,2000,28108,Fungi,800642
+Northern Territory,2000,26764,Fungi,1349129
+Other Territories,2000,2289,Fungi,250
+Queensland,2000,29876,Fungi,1730648
+South Australia,2000,26130,Fungi,983482
+Tasmania,2000,15442,Fungi,68401
+Victoria,2000,19108,Fungi,227416
+Western Australia,2000,34377,Fungi,2529875
+Australian Capital Territory,2001,7918,Fungi,2358
+New South Wales,2001,28207,Fungi,800642
+Northern Territory,2001,26765,Fungi,1349129
+Other Territories,2001,2296,Fungi,250
+Queensland,2001,29922,Fungi,1730648
+South Australia,2001,26194,Fungi,983482
+Tasmania,2001,15509,Fungi,68401
+Victoria,2001,19179,Fungi,227416
+Western Australia,2001,34423,Fungi,2529875
+Australian Capital Territory,2002,7942,Fungi,2358
+New South Wales,2002,28310,Fungi,800642
+Northern Territory,2002,26824,Fungi,1349129
+Other Territories,2002,2298,Fungi,250
+Queensland,2002,30009,Fungi,1730648
+South Australia,2002,26268,Fungi,983482
+Tasmania,2002,15544,Fungi,68401
+Victoria,2002,19249,Fungi,227416
+Western Australia,2002,34541,Fungi,2529875
+Australian Capital Territory,2003,7900,Fungi,2358
+New South Wales,2003,28315,Fungi,800642
+Northern Territory,2003,26883,Fungi,1349129
+Other Territories,2003,2293,Fungi,250
+Queensland,2003,30060,Fungi,1730648
+South Australia,2003,26325,Fungi,983482
+Tasmania,2003,15502,Fungi,68401
+Victoria,2003,19223,Fungi,227416
+Western Australia,2003,34605,Fungi,2529875
+Australian Capital Territory,2004,7877,Fungi,2358
+New South Wales,2004,28302,Fungi,800642
+Northern Territory,2004,26921,Fungi,1349129
+Other Territories,2004,2288,Fungi,250
+Queensland,2004,30080,Fungi,1730648
+South Australia,2004,26347,Fungi,983482
+Tasmania,2004,15475,Fungi,68401
+Victoria,2004,19210,Fungi,227416
+Western Australia,2004,34622,Fungi,2529875
+Australian Capital Territory,2005,7837,Fungi,2358
+New South Wales,2005,28178,Fungi,800642
+Northern Territory,2005,26894,Fungi,1349129
+Other Territories,2005,2281,Fungi,250
+Queensland,2005,30008,Fungi,1730648
+South Australia,2005,26264,Fungi,983482
+Tasmania,2005,15390,Fungi,68401
+Victoria,2005,19117,Fungi,227416
+Western Australia,2005,34545,Fungi,2529875
+Australian Capital Territory,2006,7847,Fungi,2358
+New South Wales,2006,28212,Fungi,800642
+Northern Territory,2006,26869,Fungi,1349129
+Other Territories,2006,2283,Fungi,250
+Queensland,2006,30007,Fungi,1730648
+South Australia,2006,26287,Fungi,983482
+Tasmania,2006,15390,Fungi,68401
+Victoria,2006,19141,Fungi,227416
+Western Australia,2006,34522,Fungi,2529875
+Australian Capital Territory,2007,7832,Fungi,2358
+New South Wales,2007,28165,Fungi,800642
+Northern Territory,2007,26872,Fungi,1349129
+Other Territories,2007,2282,Fungi,250
+Queensland,2007,29998,Fungi,1730648
+South Australia,2007,26241,Fungi,983482
+Tasmania,2007,15359,Fungi,68401
+Victoria,2007,19098,Fungi,227416
+Western Australia,2007,34517,Fungi,2529875
+Australian Capital Territory,2008,7844,Fungi,2358
+New South Wales,2008,28204,Fungi,800642
+Northern Territory,2008,26852,Fungi,1349129
+Other Territories,2008,2283,Fungi,250
+Queensland,2008,29982,Fungi,1730648
+South Australia,2008,26269,Fungi,983482
+Tasmania,2008,15360,Fungi,68401
+Victoria,2008,19124,Fungi,227416
+Western Australia,2008,34518,Fungi,2529875
+Australian Capital Territory,2009,7853,Fungi,2358
+New South Wales,2009,28186,Fungi,800642
+Northern Territory,2009,26836,Fungi,1349129
+Other Territories,2009,2283,Fungi,250
+Queensland,2009,29943,Fungi,1730648
+South Australia,2009,26239,Fungi,983482
+Tasmania,2009,15373,Fungi,68401
+Victoria,2009,19124,Fungi,227416
+Western Australia,2009,34508,Fungi,2529875
+Australian Capital Territory,2010,7894,Fungi,2358
+New South Wales,2010,28172,Fungi,800642
+Northern Territory,2010,26786,Fungi,1349129
+Other Territories,2010,2290,Fungi,250
+Queensland,2010,29871,Fungi,1730648
+South Australia,2010,26206,Fungi,983482
+Tasmania,2010,15444,Fungi,68401
+Victoria,2010,19166,Fungi,227416
+Western Australia,2010,34501,Fungi,2529875
+Australian Capital Territory,2011,7934,Fungi,2358
+New South Wales,2011,28192,Fungi,800642
+Northern Territory,2011,26762,Fungi,1349129
+Other Territories,2011,2302,Fungi,250
+Queensland,2011,29861,Fungi,1730648
+South Australia,2011,26155,Fungi,983482
+Tasmania,2011,15518,Fungi,68401
+Victoria,2011,19202,Fungi,227416
+Western Australia,2011,34508,Fungi,2529875
+Australian Capital Territory,2012,7958,Fungi,2358
+New South Wales,2012,28200,Fungi,800642
+Northern Territory,2012,26769,Fungi,1349129
+Other Territories,2012,2308,Fungi,250
+Queensland,2012,29878,Fungi,1730648
+South Australia,2012,26150,Fungi,983482
+Tasmania,2012,15549,Fungi,68401
+Victoria,2012,19219,Fungi,227416
+Western Australia,2012,34509,Fungi,2529875
+Australian Capital Territory,2013,7925,Fungi,2358
+New South Wales,2013,28225,Fungi,800642
+Northern Territory,2013,26872,Fungi,1349129
+Other Territories,2013,2301,Fungi,250
+Queensland,2013,29996,Fungi,1730648
+South Australia,2013,26204,Fungi,983482
+Tasmania,2013,15493,Fungi,68401
+Victoria,2013,19183,Fungi,227416
+Western Australia,2013,34547,Fungi,2529875
+Australian Capital Territory,2014,7884,Fungi,2358
+New South Wales,2014,28191,Fungi,800642
+Northern Territory,2014,26887,Fungi,1349129
+Other Territories,2014,2291,Fungi,250
+Queensland,2014,30018,Fungi,1730648
+South Australia,2014,26240,Fungi,983482
+Tasmania,2014,15444,Fungi,68401
+Victoria,2014,19137,Fungi,227416
+Western Australia,2014,34532,Fungi,2529875
+Australian Capital Territory,2015,7875,Fungi,2358
+New South Wales,2015,28171,Fungi,800642
+Northern Territory,2015,26901,Fungi,1349129
+Other Territories,2015,2287,Fungi,250
+Queensland,2015,30033,Fungi,1730648
+South Australia,2015,26232,Fungi,983482
+Tasmania,2015,15425,Fungi,68401
+Victoria,2015,19116,Fungi,227416
+Western Australia,2015,34514,Fungi,2529875
+Australian Capital Territory,2016,7877,Fungi,2358
+New South Wales,2016,28077,Fungi,800642
+Northern Territory,2016,26793,Fungi,1349129
+Other Territories,2016,2287,Fungi,250
+Queensland,2016,29897,Fungi,1730648
+South Australia,2016,26123,Fungi,983482
+Tasmania,2016,15435,Fungi,68401
+Victoria,2016,19092,Fungi,227416
+Western Australia,2016,34409,Fungi,2529875
+Australian Capital Territory,2017,7889,Fungi,2358
+New South Wales,2017,28104,Fungi,800642
+Northern Territory,2017,26796,Fungi,1349129
+Other Territories,2017,2288,Fungi,250
+Queensland,2017,29907,Fungi,1730648
+South Australia,2017,26141,Fungi,983482
+Tasmania,2017,15450,Fungi,68401
+Victoria,2017,19113,Fungi,227416
+Western Australia,2017,34421,Fungi,2529875
+Australian Capital Territory,2018,7894,Fungi,2358
+New South Wales,2018,28152,Fungi,800642
+Northern Territory,2018,26809,Fungi,1349129
+Other Territories,2018,2288,Fungi,250
+Queensland,2018,29928,Fungi,1730648
+South Australia,2018,26178,Fungi,983482
+Tasmania,2018,15474,Fungi,68401
+Victoria,2018,19144,Fungi,227416
+Western Australia,2018,34457,Fungi,2529875
+Australian Capital Territory,2019,7897,Fungi,2358
+New South Wales,2019,28249,Fungi,800642
+Northern Territory,2019,26866,Fungi,1349129
+Other Territories,2019,2283,Fungi,250
+Queensland,2019,30007,Fungi,1730648
+South Australia,2019,26276,Fungi,983482
+Tasmania,2019,15494,Fungi,68401
+Victoria,2019,19187,Fungi,227416
+Western Australia,2019,34536,Fungi,2529875
+Australian Capital Territory,2020,7854,Fungi,2358
+New South Wales,2020,28117,Fungi,800642
+Northern Territory,2020,26840,Fungi,1349129
+Other Territories,2020,2277,Fungi,250
+Queensland,2020,29926,Fungi,1730648
+South Australia,2020,26196,Fungi,983482
+Tasmania,2020,15426,Fungi,68401
+Victoria,2020,19100,Fungi,227416
+Western Australia,2020,34479,Fungi,2529875
+Australian Capital Territory,2021,7853,Fungi,2358
+New South Wales,2021,28083,Fungi,800642
+Northern Territory,2021,26821,Fungi,1349129
+Other Territories,2021,2279,Fungi,250
+Queensland,2021,29897,Fungi,1730648
+South Australia,2021,26164,Fungi,983482
+Tasmania,2021,15402,Fungi,68401
+Victoria,2021,19081,Fungi,227416
+Western Australia,2021,34454,Fungi,2529875
+Australian Capital Territory,2022,7870,Fungi,2358
+New South Wales,2022,28042,Fungi,800642
+Northern Territory,2022,26786,Fungi,1349129
+Other Territories,2022,2286,Fungi,250
+Queensland,2022,29871,Fungi,1730648
+South Australia,2022,26102,Fungi,983482
+Tasmania,2022,15433,Fungi,68401
+Victoria,2022,19075,Fungi,227416
+Western Australia,2022,34397,Fungi,2529875
+Australian Capital Territory,2023,7936,Fungi,2358
+New South Wales,2023,28160,Fungi,800642
+Northern Territory,2023,26765,Fungi,1349129
+Other Territories,2023,2298,Fungi,250
+Queensland,2023,29910,Fungi,1730648
+South Australia,2023,26152,Fungi,983482
+Tasmania,2023,15532,Fungi,68401
+Victoria,2023,19171,Fungi,227416
+Western Australia,2023,34410,Fungi,2529875
+Australian Capital Territory,2024,7946,Fungi,2358
+New South Wales,2024,28120,Fungi,800642
+Northern Territory,2024,26716,Fungi,1349129
+Other Territories,2024,2298,Fungi,250
+Queensland,2024,29849,Fungi,1730648
+South Australia,2024,26102,Fungi,983482
+Tasmania,2024,15561,Fungi,68401
+Victoria,2024,19169,Fungi,227416
+Western Australia,2024,34372,Fungi,2529875
+Australian Capital Territory,1750,3079,Plant,2358
+New South Wales,1750,7255,Plant,800642
+Northern Territory,1750,4890,Plant,1349129
+Other Territories,1750,919,Plant,250
+Queensland,1750,9389,Plant,1730648
+South Australia,1750,3862,Plant,983482
+Tasmania,1750,2449,Plant,68401
+Victoria,1750,4770,Plant,227416
+Western Australia,1750,11411,Plant,2529875
+Australian Capital Territory,1990,2316,Plant,2358
+New South Wales,1990,5872,Plant,800642
+Northern Territory,1990,4407,Plant,1349129
+Other Territories,1990,725,Plant,250
+Queensland,1990,8104,Plant,1730648
+South Australia,1990,3309,Plant,983482
+Tasmania,1990,1805,Plant,68401
+Victoria,1990,3575,Plant,227416
+Western Australia,1990,9606,Plant,2529875
+Australian Capital Territory,1991,2313,Plant,2358
+New South Wales,1991,5885,Plant,800642
+Northern Territory,1991,4404,Plant,1349129
+Other Territories,1991,721,Plant,250
+Queensland,1991,8090,Plant,1730648
+South Australia,1991,3315,Plant,983482
+Tasmania,1991,1818,Plant,68401
+Victoria,1991,3579,Plant,227416
+Western Australia,1991,9550,Plant,2529875
+Australian Capital Territory,1992,2306,Plant,2358
+New South Wales,1992,5917,Plant,800642
+Northern Territory,1992,4413,Plant,1349129
+Other Territories,1992,721,Plant,250
+Queensland,1992,8118,Plant,1730648
+South Australia,1992,3320,Plant,983482
+Tasmania,1992,1818,Plant,68401
+Victoria,1992,3588,Plant,227416
+Western Australia,1992,9555,Plant,2529875
+Australian Capital Territory,1993,2320,Plant,2358
+New South Wales,1993,5980,Plant,800642
+Northern Territory,1993,4411,Plant,1349129
+Other Territories,1993,722,Plant,250
+Queensland,1993,8149,Plant,1730648
+South Australia,1993,3337,Plant,983482
+Tasmania,1993,1835,Plant,68401
+Victoria,1993,3627,Plant,227416
+Western Australia,1993,9632,Plant,2529875
+Australian Capital Territory,1994,2341,Plant,2358
+New South Wales,1994,6015,Plant,800642
+Northern Territory,1994,4416,Plant,1349129
+Other Territories,1994,726,Plant,250
+Queensland,1994,8174,Plant,1730648
+South Australia,1994,3351,Plant,983482
+Tasmania,1994,1839,Plant,68401
+Victoria,1994,3653,Plant,227416
+Western Australia,1994,9630,Plant,2529875
+Australian Capital Territory,1995,2340,Plant,2358
+New South Wales,1995,5993,Plant,800642
+Northern Territory,1995,4405,Plant,1349129
+Other Territories,1995,724,Plant,250
+Queensland,1995,8151,Plant,1730648
+South Australia,1995,3350,Plant,983482
+Tasmania,1995,1849,Plant,68401
+Victoria,1995,3639,Plant,227416
+Western Australia,1995,9627,Plant,2529875
+Australian Capital Territory,1996,2328,Plant,2358
+New South Wales,1996,5976,Plant,800642
+Northern Territory,1996,4406,Plant,1349129
+Other Territories,1996,723,Plant,250
+Queensland,1996,8143,Plant,1730648
+South Australia,1996,3344,Plant,983482
+Tasmania,1996,1839,Plant,68401
+Victoria,1996,3618,Plant,227416
+Western Australia,1996,9579,Plant,2529875
+Australian Capital Territory,1997,2321,Plant,2358
+New South Wales,1997,5954,Plant,800642
+Northern Territory,1997,4393,Plant,1349129
+Other Territories,1997,725,Plant,250
+Queensland,1997,8112,Plant,1730648
+South Australia,1997,3331,Plant,983482
+Tasmania,1997,1817,Plant,68401
+Victoria,1997,3601,Plant,227416
+Western Australia,1997,9549,Plant,2529875
+Australian Capital Territory,1998,2314,Plant,2358
+New South Wales,1998,5951,Plant,800642
+Northern Territory,1998,4395,Plant,1349129
+Other Territories,1998,725,Plant,250
+Queensland,1998,8108,Plant,1730648
+South Australia,1998,3337,Plant,983482
+Tasmania,1998,1806,Plant,68401
+Victoria,1998,3606,Plant,227416
+Western Australia,1998,9486,Plant,2529875
+Australian Capital Territory,1999,2320,Plant,2358
+New South Wales,1999,5966,Plant,800642
+Northern Territory,1999,4391,Plant,1349129
+Other Territories,1999,727,Plant,250
+Queensland,1999,8107,Plant,1730648
+South Australia,1999,3348,Plant,983482
+Tasmania,1999,1823,Plant,68401
+Victoria,1999,3622,Plant,227416
+Western Australia,1999,9471,Plant,2529875
+Australian Capital Territory,2000,2336,Plant,2358
+New South Wales,2000,5958,Plant,800642
+Northern Territory,2000,4388,Plant,1349129
+Other Territories,2000,730,Plant,250
+Queensland,2000,8107,Plant,1730648
+South Australia,2000,3342,Plant,983482
+Tasmania,2000,1843,Plant,68401
+Victoria,2000,3626,Plant,227416
+Western Australia,2000,9537,Plant,2529875
+Australian Capital Territory,2001,2368,Plant,2358
+New South Wales,2001,6004,Plant,800642
+Northern Territory,2001,4381,Plant,1349129
+Other Territories,2001,735,Plant,250
+Queensland,2001,8115,Plant,1730648
+South Australia,2001,3355,Plant,983482
+Tasmania,2001,1854,Plant,68401
+Victoria,2001,3654,Plant,227416
+Western Australia,2001,9576,Plant,2529875
+Australian Capital Territory,2002,2380,Plant,2358
+New South Wales,2002,6041,Plant,800642
+Northern Territory,2002,4390,Plant,1349129
+Other Territories,2002,735,Plant,250
+Queensland,2002,8144,Plant,1730648
+South Australia,2002,3365,Plant,983482
+Tasmania,2002,1849,Plant,68401
+Victoria,2002,3677,Plant,227416
+Western Australia,2002,9632,Plant,2529875
+Australian Capital Territory,2003,2342,Plant,2358
+New South Wales,2003,6042,Plant,800642
+Northern Territory,2003,4400,Plant,1349129
+Other Territories,2003,731,Plant,250
+Queensland,2003,8164,Plant,1730648
+South Australia,2003,3372,Plant,983482
+Tasmania,2003,1842,Plant,68401
+Victoria,2003,3660,Plant,227416
+Western Australia,2003,9572,Plant,2529875
+Australian Capital Territory,2004,2324,Plant,2358
+New South Wales,2004,6037,Plant,800642
+Northern Territory,2004,4411,Plant,1349129
+Other Territories,2004,728,Plant,250
+Queensland,2004,8173,Plant,1730648
+South Australia,2004,3377,Plant,983482
+Tasmania,2004,1835,Plant,68401
+Victoria,2004,3659,Plant,227416
+Western Australia,2004,9597,Plant,2529875
+Australian Capital Territory,2005,2304,Plant,2358
+New South Wales,2005,5988,Plant,800642
+Northern Territory,2005,4410,Plant,1349129
+Other Territories,2005,725,Plant,250
+Queensland,2005,8151,Plant,1730648
+South Australia,2005,3362,Plant,983482
+Tasmania,2005,1817,Plant,68401
+Victoria,2005,3628,Plant,227416
+Western Australia,2005,9566,Plant,2529875
+Australian Capital Territory,2006,2325,Plant,2358
+New South Wales,2006,6014,Plant,800642
+Northern Territory,2006,4404,Plant,1349129
+Other Territories,2006,727,Plant,250
+Queensland,2006,8150,Plant,1730648
+South Australia,2006,3371,Plant,983482
+Tasmania,2006,1806,Plant,68401
+Victoria,2006,3649,Plant,227416
+Western Australia,2006,9569,Plant,2529875
+Australian Capital Territory,2007,2310,Plant,2358
+New South Wales,2007,5989,Plant,800642
+Northern Territory,2007,4404,Plant,1349129
+Other Territories,2007,727,Plant,250
+Queensland,2007,8150,Plant,1730648
+South Australia,2007,3358,Plant,983482
+Tasmania,2007,1798,Plant,68401
+Victoria,2007,3620,Plant,227416
+Western Australia,2007,9587,Plant,2529875
+Australian Capital Territory,2008,2323,Plant,2358
+New South Wales,2008,6009,Plant,800642
+Northern Territory,2008,4396,Plant,1349129
+Other Territories,2008,726,Plant,250
+Queensland,2008,8134,Plant,1730648
+South Australia,2008,3366,Plant,983482
+Tasmania,2008,1799,Plant,68401
+Victoria,2008,3633,Plant,227416
+Western Australia,2008,9526,Plant,2529875
+Australian Capital Territory,2009,2329,Plant,2358
+New South Wales,2009,6004,Plant,800642
+Northern Territory,2009,4395,Plant,1349129
+Other Territories,2009,725,Plant,250
+Queensland,2009,8119,Plant,1730648
+South Australia,2009,3360,Plant,983482
+Tasmania,2009,1809,Plant,68401
+Victoria,2009,3633,Plant,227416
+Western Australia,2009,9444,Plant,2529875
+Australian Capital Territory,2010,2362,Plant,2358
+New South Wales,2010,5988,Plant,800642
+Northern Territory,2010,4382,Plant,1349129
+Other Territories,2010,726,Plant,250
+Queensland,2010,8082,Plant,1730648
+South Australia,2010,3356,Plant,983482
+Tasmania,2010,1836,Plant,68401
+Victoria,2010,3656,Plant,227416
+Western Australia,2010,9365,Plant,2529875
+Australian Capital Territory,2011,2387,Plant,2358
+New South Wales,2011,5987,Plant,800642
+Northern Territory,2011,4381,Plant,1349129
+Other Territories,2011,736,Plant,250
+Queensland,2011,8076,Plant,1730648
+South Australia,2011,3345,Plant,983482
+Tasmania,2011,1850,Plant,68401
+Victoria,2011,3668,Plant,227416
+Western Australia,2011,9401,Plant,2529875
+Australian Capital Territory,2012,2408,Plant,2358
+New South Wales,2012,5976,Plant,800642
+Northern Territory,2012,4383,Plant,1349129
+Other Territories,2012,738,Plant,250
+Queensland,2012,8083,Plant,1730648
+South Australia,2012,3343,Plant,983482
+Tasmania,2012,1850,Plant,68401
+Victoria,2012,3667,Plant,227416
+Western Australia,2012,9495,Plant,2529875
+Australian Capital Territory,2013,2385,Plant,2358
+New South Wales,2013,5988,Plant,800642
+Northern Territory,2013,4409,Plant,1349129
+Other Territories,2013,736,Plant,250
+Queensland,2013,8144,Plant,1730648
+South Australia,2013,3348,Plant,983482
+Tasmania,2013,1820,Plant,68401
+Victoria,2013,3644,Plant,227416
+Western Australia,2013,9584,Plant,2529875
+Australian Capital Territory,2014,2348,Plant,2358
+New South Wales,2014,5975,Plant,800642
+Northern Territory,2014,4411,Plant,1349129
+Other Territories,2014,731,Plant,250
+Queensland,2014,8161,Plant,1730648
+South Australia,2014,3355,Plant,983482
+Tasmania,2014,1822,Plant,68401
+Victoria,2014,3621,Plant,227416
+Western Australia,2014,9625,Plant,2529875
+Australian Capital Territory,2015,2341,Plant,2358
+New South Wales,2015,5972,Plant,800642
+Northern Territory,2015,4417,Plant,1349129
+Other Territories,2015,729,Plant,250
+Queensland,2015,8174,Plant,1730648
+South Australia,2015,3355,Plant,983482
+Tasmania,2015,1822,Plant,68401
+Victoria,2015,3618,Plant,227416
+Western Australia,2015,9619,Plant,2529875
+Australian Capital Territory,2016,2347,Plant,2358
+New South Wales,2016,5937,Plant,800642
+Northern Territory,2016,4397,Plant,1349129
+Other Territories,2016,730,Plant,250
+Queensland,2016,8120,Plant,1730648
+South Australia,2016,3339,Plant,983482
+Tasmania,2016,1841,Plant,68401
+Victoria,2016,3619,Plant,227416
+Western Australia,2016,9564,Plant,2529875
+Australian Capital Territory,2017,2357,Plant,2358
+New South Wales,2017,5947,Plant,800642
+Northern Territory,2017,4397,Plant,1349129
+Other Territories,2017,731,Plant,250
+Queensland,2017,8120,Plant,1730648
+South Australia,2017,3342,Plant,983482
+Tasmania,2017,1841,Plant,68401
+Victoria,2017,3622,Plant,227416
+Western Australia,2017,9543,Plant,2529875
+Australian Capital Territory,2018,2352,Plant,2358
+New South Wales,2018,5970,Plant,800642
+Northern Territory,2018,4397,Plant,1349129
+Other Territories,2018,729,Plant,250
+Queensland,2018,8125,Plant,1730648
+South Australia,2018,3348,Plant,983482
+Tasmania,2018,1849,Plant,68401
+Victoria,2018,3631,Plant,227416
+Western Australia,2018,9548,Plant,2529875
+Australian Capital Territory,2019,2347,Plant,2358
+New South Wales,2019,6020,Plant,800642
+Northern Territory,2019,4405,Plant,1349129
+Other Territories,2019,726,Plant,250
+Queensland,2019,8156,Plant,1730648
+South Australia,2019,3365,Plant,983482
+Tasmania,2019,1853,Plant,68401
+Victoria,2019,3643,Plant,227416
+Western Australia,2019,9544,Plant,2529875
+Australian Capital Territory,2020,2325,Plant,2358
+New South Wales,2020,5962,Plant,800642
+Northern Territory,2020,4405,Plant,1349129
+Other Territories,2020,724,Plant,250
+Queensland,2020,8126,Plant,1730648
+South Australia,2020,3351,Plant,983482
+Tasmania,2020,1843,Plant,68401
+Victoria,2020,3614,Plant,227416
+Western Australia,2020,9494,Plant,2529875
+Australian Capital Territory,2021,2334,Plant,2358
+New South Wales,2021,5944,Plant,800642
+Northern Territory,2021,4403,Plant,1349129
+Other Territories,2021,729,Plant,250
+Queensland,2021,8113,Plant,1730648
+South Australia,2021,3347,Plant,983482
+Tasmania,2021,1830,Plant,68401
+Victoria,2021,3613,Plant,227416
+Western Australia,2021,9468,Plant,2529875
+Australian Capital Territory,2022,2344,Plant,2358
+New South Wales,2022,5920,Plant,800642
+Northern Territory,2022,4400,Plant,1349129
+Other Territories,2022,731,Plant,250
+Queensland,2022,8107,Plant,1730648
+South Australia,2022,3338,Plant,983482
+Tasmania,2022,1845,Plant,68401
+Victoria,2022,3614,Plant,227416
+Western Australia,2022,9495,Plant,2529875
+Australian Capital Territory,2023,2388,Plant,2358
+New South Wales,2023,5972,Plant,800642
+Northern Territory,2023,4392,Plant,1349129
+Other Territories,2023,736,Plant,250
+Queensland,2023,8117,Plant,1730648
+South Australia,2023,3348,Plant,983482
+Tasmania,2023,1867,Plant,68401
+Victoria,2023,3645,Plant,227416
+Western Australia,2023,9521,Plant,2529875
+Australian Capital Territory,2024,2394,Plant,2358
+New South Wales,2024,5954,Plant,800642
+Northern Territory,2024,4381,Plant,1349129
+Other Territories,2024,735,Plant,250
+Queensland,2024,8095,Plant,1730648
+South Australia,2024,3341,Plant,983482
+Tasmania,2024,1883,Plant,68401
+Victoria,2024,3647,Plant,227416
+Western Australia,2024,9523,Plant,2529875
+Australian Capital Territory,1750,65,Reptile,2358
+New South Wales,1750,337,Reptile,800642
+Northern Territory,1750,357,Reptile,1349129
+Other Territories,1750,27,Reptile,250
+Queensland,1750,534,Reptile,1730648
+South Australia,1750,266,Reptile,983482
+Tasmania,1750,26,Reptile,68401
+Victoria,1750,137,Reptile,227416
+Western Australia,1750,568,Reptile,2529875
+Australian Capital Territory,1990,51,Reptile,2358
+New South Wales,1990,257,Reptile,800642
+Northern Territory,1990,329,Reptile,1349129
+Other Territories,1990,22,Reptile,250
+Queensland,1990,450,Reptile,1730648
+South Australia,1990,224,Reptile,983482
+Tasmania,1990,20,Reptile,68401
+Victoria,1990,99,Reptile,227416
+Western Australia,1990,513,Reptile,2529875
+Australian Capital Territory,1991,51,Reptile,2358
+New South Wales,1991,257,Reptile,800642
+Northern Territory,1991,329,Reptile,1349129
+Other Territories,1991,22,Reptile,250
+Queensland,1991,448,Reptile,1730648
+South Australia,1991,224,Reptile,983482
+Tasmania,1991,20,Reptile,68401
+Victoria,1991,99,Reptile,227416
+Western Australia,1991,513,Reptile,2529875
+Australian Capital Territory,1992,51,Reptile,2358
+New South Wales,1992,260,Reptile,800642
+Northern Territory,1992,329,Reptile,1349129
+Other Territories,1992,22,Reptile,250
+Queensland,1992,451,Reptile,1730648
+South Australia,1992,226,Reptile,983482
+Tasmania,1992,20,Reptile,68401
+Victoria,1992,100,Reptile,227416
+Western Australia,1992,511,Reptile,2529875
+Australian Capital Territory,1993,51,Reptile,2358
+New South Wales,1993,264,Reptile,800642
+Northern Territory,1993,328,Reptile,1349129
+Other Territories,1993,22,Reptile,250
+Queensland,1993,454,Reptile,1730648
+South Australia,1993,227,Reptile,983482
+Tasmania,1993,20,Reptile,68401
+Victoria,1993,101,Reptile,227416
+Western Australia,1993,511,Reptile,2529875
+Australian Capital Territory,1994,51,Reptile,2358
+New South Wales,1994,266,Reptile,800642
+Northern Territory,1994,328,Reptile,1349129
+Other Territories,1994,22,Reptile,250
+Queensland,1994,456,Reptile,1730648
+South Australia,1994,228,Reptile,983482
+Tasmania,1994,20,Reptile,68401
+Victoria,1994,103,Reptile,227416
+Western Australia,1994,511,Reptile,2529875
+Australian Capital Territory,1995,51,Reptile,2358
+New South Wales,1995,265,Reptile,800642
+Northern Territory,1995,327,Reptile,1349129
+Other Territories,1995,22,Reptile,250
+Queensland,1995,454,Reptile,1730648
+South Australia,1995,228,Reptile,983482
+Tasmania,1995,21,Reptile,68401
+Victoria,1995,102,Reptile,227416
+Western Australia,1995,510,Reptile,2529875
+Australian Capital Territory,1996,51,Reptile,2358
+New South Wales,1996,264,Reptile,800642
+Northern Territory,1996,328,Reptile,1349129
+Other Territories,1996,22,Reptile,250
+Queensland,1996,453,Reptile,1730648
+South Australia,1996,227,Reptile,983482
+Tasmania,1996,21,Reptile,68401
+Victoria,1996,101,Reptile,227416
+Western Australia,1996,509,Reptile,2529875
+Australian Capital Territory,1997,51,Reptile,2358
+New South Wales,1997,263,Reptile,800642
+Northern Territory,1997,327,Reptile,1349129
+Other Territories,1997,22,Reptile,250
+Queensland,1997,452,Reptile,1730648
+South Australia,1997,227,Reptile,983482
+Tasmania,1997,20,Reptile,68401
+Victoria,1997,100,Reptile,227416
+Western Australia,1997,507,Reptile,2529875
+Australian Capital Territory,1998,51,Reptile,2358
+New South Wales,1998,262,Reptile,800642
+Northern Territory,1998,327,Reptile,1349129
+Other Territories,1998,22,Reptile,250
+Queensland,1998,451,Reptile,1730648
+South Australia,1998,227,Reptile,983482
+Tasmania,1998,20,Reptile,68401
+Victoria,1998,100,Reptile,227416
+Western Australia,1998,509,Reptile,2529875
+Australian Capital Territory,1999,51,Reptile,2358
+New South Wales,1999,263,Reptile,800642
+Northern Territory,1999,327,Reptile,1349129
+Other Territories,1999,22,Reptile,250
+Queensland,1999,450,Reptile,1730648
+South Australia,1999,228,Reptile,983482
+Tasmania,1999,20,Reptile,68401
+Victoria,1999,101,Reptile,227416
+Western Australia,1999,508,Reptile,2529875
+Australian Capital Territory,2000,51,Reptile,2358
+New South Wales,2000,263,Reptile,800642
+Northern Territory,2000,327,Reptile,1349129
+Other Territories,2000,22,Reptile,250
+Queensland,2000,451,Reptile,1730648
+South Australia,2000,227,Reptile,983482
+Tasmania,2000,21,Reptile,68401
+Victoria,2000,101,Reptile,227416
+Western Australia,2000,508,Reptile,2529875
+Australian Capital Territory,2001,52,Reptile,2358
+New South Wales,2001,267,Reptile,800642
+Northern Territory,2001,326,Reptile,1349129
+Other Territories,2001,23,Reptile,250
+Queensland,2001,451,Reptile,1730648
+South Australia,2001,228,Reptile,983482
+Tasmania,2001,21,Reptile,68401
+Victoria,2001,102,Reptile,227416
+Western Australia,2001,508,Reptile,2529875
+Australian Capital Territory,2002,52,Reptile,2358
+New South Wales,2002,268,Reptile,800642
+Northern Territory,2002,326,Reptile,1349129
+Other Territories,2002,23,Reptile,250
+Queensland,2002,454,Reptile,1730648
+South Australia,2002,229,Reptile,983482
+Tasmania,2002,21,Reptile,68401
+Victoria,2002,103,Reptile,227416
+Western Australia,2002,511,Reptile,2529875
+Australian Capital Territory,2003,51,Reptile,2358
+New South Wales,2003,267,Reptile,800642
+Northern Territory,2003,326,Reptile,1349129
+Other Territories,2003,22,Reptile,250
+Queensland,2003,455,Reptile,1730648
+South Australia,2003,230,Reptile,983482
+Tasmania,2003,21,Reptile,68401
+Victoria,2003,102,Reptile,227416
+Western Australia,2003,513,Reptile,2529875
+Australian Capital Territory,2004,51,Reptile,2358
+New South Wales,2004,266,Reptile,800642
+Northern Territory,2004,327,Reptile,1349129
+Other Territories,2004,22,Reptile,250
+Queensland,2004,455,Reptile,1730648
+South Australia,2004,230,Reptile,983482
+Tasmania,2004,21,Reptile,68401
+Victoria,2004,102,Reptile,227416
+Western Australia,2004,512,Reptile,2529875
+Australian Capital Territory,2005,50,Reptile,2358
+New South Wales,2005,263,Reptile,800642
+Northern Territory,2005,328,Reptile,1349129
+Other Territories,2005,22,Reptile,250
+Queensland,2005,454,Reptile,1730648
+South Australia,2005,229,Reptile,983482
+Tasmania,2005,20,Reptile,68401
+Victoria,2005,101,Reptile,227416
+Western Australia,2005,512,Reptile,2529875
+Australian Capital Territory,2006,51,Reptile,2358
+New South Wales,2006,265,Reptile,800642
+Northern Territory,2006,327,Reptile,1349129
+Other Territories,2006,22,Reptile,250
+Queensland,2006,453,Reptile,1730648
+South Australia,2006,230,Reptile,983482
+Tasmania,2006,20,Reptile,68401
+Victoria,2006,102,Reptile,227416
+Western Australia,2006,510,Reptile,2529875
+Australian Capital Territory,2007,51,Reptile,2358
+New South Wales,2007,263,Reptile,800642
+Northern Territory,2007,327,Reptile,1349129
+Other Territories,2007,22,Reptile,250
+Queensland,2007,454,Reptile,1730648
+South Australia,2007,229,Reptile,983482
+Tasmania,2007,20,Reptile,68401
+Victoria,2007,100,Reptile,227416
+Western Australia,2007,511,Reptile,2529875
+Australian Capital Territory,2008,51,Reptile,2358
+New South Wales,2008,265,Reptile,800642
+Northern Territory,2008,327,Reptile,1349129
+Other Territories,2008,22,Reptile,250
+Queensland,2008,452,Reptile,1730648
+South Australia,2008,229,Reptile,983482
+Tasmania,2008,20,Reptile,68401
+Victoria,2008,100,Reptile,227416
+Western Australia,2008,511,Reptile,2529875
+Australian Capital Territory,2009,51,Reptile,2358
+New South Wales,2009,265,Reptile,800642
+Northern Territory,2009,327,Reptile,1349129
+Other Territories,2009,22,Reptile,250
+Queensland,2009,450,Reptile,1730648
+South Australia,2009,229,Reptile,983482
+Tasmania,2009,20,Reptile,68401
+Victoria,2009,100,Reptile,227416
+Western Australia,2009,511,Reptile,2529875
+Australian Capital Territory,2010,52,Reptile,2358
+New South Wales,2010,265,Reptile,800642
+Northern Territory,2010,327,Reptile,1349129
+Other Territories,2010,22,Reptile,250
+Queensland,2010,447,Reptile,1730648
+South Australia,2010,229,Reptile,983482
+Tasmania,2010,21,Reptile,68401
+Victoria,2010,101,Reptile,227416
+Western Australia,2010,513,Reptile,2529875
+Australian Capital Territory,2011,53,Reptile,2358
+New South Wales,2011,266,Reptile,800642
+Northern Territory,2011,326,Reptile,1349129
+Other Territories,2011,23,Reptile,250
+Queensland,2011,446,Reptile,1730648
+South Australia,2011,228,Reptile,983482
+Tasmania,2011,21,Reptile,68401
+Victoria,2011,102,Reptile,227416
+Western Australia,2011,514,Reptile,2529875
+Australian Capital Territory,2012,53,Reptile,2358
+New South Wales,2012,266,Reptile,800642
+Northern Territory,2012,326,Reptile,1349129
+Other Territories,2012,23,Reptile,250
+Queensland,2012,447,Reptile,1730648
+South Australia,2012,228,Reptile,983482
+Tasmania,2012,20,Reptile,68401
+Victoria,2012,102,Reptile,227416
+Western Australia,2012,514,Reptile,2529875
+Australian Capital Territory,2013,53,Reptile,2358
+New South Wales,2013,266,Reptile,800642
+Northern Territory,2013,328,Reptile,1349129
+Other Territories,2013,23,Reptile,250
+Queensland,2013,453,Reptile,1730648
+South Australia,2013,228,Reptile,983482
+Tasmania,2013,20,Reptile,68401
+Victoria,2013,101,Reptile,227416
+Western Australia,2013,513,Reptile,2529875
+Australian Capital Territory,2014,52,Reptile,2358
+New South Wales,2014,264,Reptile,800642
+Northern Territory,2014,327,Reptile,1349129
+Other Territories,2014,22,Reptile,250
+Queensland,2014,455,Reptile,1730648
+South Australia,2014,228,Reptile,983482
+Tasmania,2014,20,Reptile,68401
+Victoria,2014,100,Reptile,227416
+Western Australia,2014,512,Reptile,2529875
+Australian Capital Territory,2015,51,Reptile,2358
+New South Wales,2015,263,Reptile,800642
+Northern Territory,2015,328,Reptile,1349129
+Other Territories,2015,22,Reptile,250
+Queensland,2015,456,Reptile,1730648
+South Australia,2015,228,Reptile,983482
+Tasmania,2015,20,Reptile,68401
+Victoria,2015,100,Reptile,227416
+Western Australia,2015,511,Reptile,2529875
+Australian Capital Territory,2016,51,Reptile,2358
+New South Wales,2016,261,Reptile,800642
+Northern Territory,2016,327,Reptile,1349129
+Other Territories,2016,22,Reptile,250
+Queensland,2016,452,Reptile,1730648
+South Australia,2016,227,Reptile,983482
+Tasmania,2016,21,Reptile,68401
+Victoria,2016,101,Reptile,227416
+Western Australia,2016,511,Reptile,2529875
+Australian Capital Territory,2017,52,Reptile,2358
+New South Wales,2017,262,Reptile,800642
+Northern Territory,2017,327,Reptile,1349129
+Other Territories,2017,22,Reptile,250
+Queensland,2017,452,Reptile,1730648
+South Australia,2017,227,Reptile,983482
+Tasmania,2017,21,Reptile,68401
+Victoria,2017,100,Reptile,227416
+Western Australia,2017,510,Reptile,2529875
+Australian Capital Territory,2018,52,Reptile,2358
+New South Wales,2018,264,Reptile,800642
+Northern Territory,2018,327,Reptile,1349129
+Other Territories,2018,22,Reptile,250
+Queensland,2018,451,Reptile,1730648
+South Australia,2018,228,Reptile,983482
+Tasmania,2018,21,Reptile,68401
+Victoria,2018,101,Reptile,227416
+Western Australia,2018,511,Reptile,2529875
+Australian Capital Territory,2019,52,Reptile,2358
+New South Wales,2019,266,Reptile,800642
+Northern Territory,2019,328,Reptile,1349129
+Other Territories,2019,22,Reptile,250
+Queensland,2019,453,Reptile,1730648
+South Australia,2019,230,Reptile,983482
+Tasmania,2019,21,Reptile,68401
+Victoria,2019,101,Reptile,227416
+Western Australia,2019,511,Reptile,2529875
+Australian Capital Territory,2020,51,Reptile,2358
+New South Wales,2020,263,Reptile,800642
+Northern Territory,2020,328,Reptile,1349129
+Other Territories,2020,22,Reptile,250
+Queensland,2020,450,Reptile,1730648
+South Australia,2020,229,Reptile,983482
+Tasmania,2020,21,Reptile,68401
+Victoria,2020,100,Reptile,227416
+Western Australia,2020,512,Reptile,2529875
+Australian Capital Territory,2021,51,Reptile,2358
+New South Wales,2021,262,Reptile,800642
+Northern Territory,2021,328,Reptile,1349129
+Other Territories,2021,22,Reptile,250
+Queensland,2021,449,Reptile,1730648
+South Australia,2021,228,Reptile,983482
+Tasmania,2021,20,Reptile,68401
+Victoria,2021,100,Reptile,227416
+Western Australia,2021,511,Reptile,2529875
+Australian Capital Territory,2022,51,Reptile,2358
+New South Wales,2022,261,Reptile,800642
+Northern Territory,2022,328,Reptile,1349129
+Other Territories,2022,22,Reptile,250
+Queensland,2022,450,Reptile,1730648
+South Australia,2022,227,Reptile,983482
+Tasmania,2022,21,Reptile,68401
+Victoria,2022,100,Reptile,227416
+Western Australia,2022,510,Reptile,2529875
+Australian Capital Territory,2023,53,Reptile,2358
+New South Wales,2023,265,Reptile,800642
+Northern Territory,2023,326,Reptile,1349129
+Other Territories,2023,23,Reptile,250
+Queensland,2023,451,Reptile,1730648
+South Australia,2023,228,Reptile,983482
+Tasmania,2023,21,Reptile,68401
+Victoria,2023,101,Reptile,227416
+Western Australia,2023,509,Reptile,2529875
+Australian Capital Territory,2024,53,Reptile,2358
+New South Wales,2024,265,Reptile,800642
+Northern Territory,2024,325,Reptile,1349129
+Other Territories,2024,23,Reptile,250
+Queensland,2024,448,Reptile,1730648
+South Australia,2024,228,Reptile,983482
+Tasmania,2024,21,Reptile,68401
+Victoria,2024,101,Reptile,227416
+Western Australia,2024,510,Reptile,2529875
+Australian Capital Territory,1750,12989,Total,2358
+Australian Capital Territory,1990,10440,Total,2358
+Australian Capital Territory,1991,10426,Total,2358
+Australian Capital Territory,1992,10416,Total,2358
+Australian Capital Territory,1993,10468,Total,2358
+Australian Capital Territory,1994,10519,Total,2358
+Australian Capital Territory,1995,10514,Total,2358
+Australian Capital Territory,1996,10478,Total,2358
+Australian Capital Territory,1997,10446,Total,2358
+Australian Capital Territory,1998,10436,Total,2358
+Australian Capital Territory,1999,10457,Total,2358
+Australian Capital Territory,2000,10505,Total,2358
+Australian Capital Territory,2001,10582,Total,2358
+Australian Capital Territory,2002,10618,Total,2358
+Australian Capital Territory,2003,10536,Total,2358
+Australian Capital Territory,2004,10494,Total,2358
+Australian Capital Territory,2005,10431,Total,2358
+Australian Capital Territory,2006,10463,Total,2358
+Australian Capital Territory,2007,10432,Total,2358
+Australian Capital Territory,2008,10458,Total,2358
+Australian Capital Territory,2009,10474,Total,2358
+Australian Capital Territory,2010,10551,Total,2358
+Australian Capital Territory,2011,10618,Total,2358
+Australian Capital Territory,2012,10664,Total,2358
+Australian Capital Territory,2013,10606,Total,2358
+Australian Capital Territory,2014,10526,Total,2358
+Australian Capital Territory,2015,10508,Total,2358
+Australian Capital Territory,2016,10518,Total,2358
+Australian Capital Territory,2017,10540,Total,2358
+Australian Capital Territory,2018,10540,Total,2358
+Australian Capital Territory,2019,10538,Total,2358
+Australian Capital Territory,2020,10470,Total,2358
+Australian Capital Territory,2021,10478,Total,2358
+Australian Capital Territory,2022,10506,Total,2358
+Australian Capital Territory,2023,10620,Total,2358
+Australian Capital Territory,2024,10637,Total,2358
+New South Wales,1750,41087,Total,800642
+New South Wales,1990,34575,Total,800642
+New South Wales,1991,34587,Total,800642
+New South Wales,1992,34691,Total,800642
+New South Wales,1993,34915,Total,800642
+New South Wales,1994,35039,Total,800642
+New South Wales,1995,34965,Total,800642
+New South Wales,1996,34892,Total,800642
+New South Wales,1997,34799,Total,800642
+New South Wales,1998,34806,Total,800642
+New South Wales,1999,34865,Total,800642
+New South Wales,2000,34856,Total,800642
+New South Wales,2001,35009,Total,800642
+New South Wales,2002,35154,Total,800642
+New South Wales,2003,35160,Total,800642
+New South Wales,2004,35139,Total,800642
+New South Wales,2005,34960,Total,800642
+New South Wales,2006,35022,Total,800642
+New South Wales,2007,34947,Total,800642
+New South Wales,2008,35009,Total,800642
+New South Wales,2009,34987,Total,800642
+New South Wales,2010,34955,Total,800642
+New South Wales,2011,34974,Total,800642
+New South Wales,2012,34971,Total,800642
+New South Wales,2013,35011,Total,800642
+New South Wales,2014,34960,Total,800642
+New South Wales,2015,34935,Total,800642
+New South Wales,2016,34801,Total,800642
+New South Wales,2017,34840,Total,800642
+New South Wales,2018,34915,Total,800642
+New South Wales,2019,35068,Total,800642
+New South Wales,2020,34870,Total,800642
+New South Wales,2021,34815,Total,800642
+New South Wales,2022,34748,Total,800642
+New South Wales,2023,34926,Total,800642
+New South Wales,2024,34866,Total,800642
+Northern Territory,1750,35463,Total,1349129
+Northern Territory,1990,31939,Total,1349129
+Northern Territory,1991,31927,Total,1349129
+Northern Territory,1992,31974,Total,1349129
+Northern Territory,1993,31994,Total,1349129
+Northern Territory,1994,32042,Total,1349129
+Northern Territory,1995,31982,Total,1349129
+Northern Territory,1996,31975,Total,1349129
+Northern Territory,1997,31885,Total,1349129
+Northern Territory,1998,31900,Total,1349129
+Northern Territory,1999,31888,Total,1349129
+Northern Territory,2000,31869,Total,1349129
+Northern Territory,2001,31861,Total,1349129
+Northern Territory,2002,31929,Total,1349129
+Northern Territory,2003,31999,Total,1349129
+Northern Territory,2004,32049,Total,1349129
+Northern Territory,2005,32023,Total,1349129
+Northern Territory,2006,31990,Total,1349129
+Northern Territory,2007,31994,Total,1349129
+Northern Territory,2008,31966,Total,1349129
+Northern Territory,2009,31948,Total,1349129
+Northern Territory,2010,31885,Total,1349129
+Northern Territory,2011,31858,Total,1349129
+Northern Territory,2012,31868,Total,1349129
+Northern Territory,2013,32000,Total,1349129
+Northern Territory,2014,32016,Total,1349129
+Northern Territory,2015,32036,Total,1349129
+Northern Territory,2016,31906,Total,1349129
+Northern Territory,2017,31910,Total,1349129
+Northern Territory,2018,31923,Total,1349129
+Northern Territory,2019,31989,Total,1349129
+Northern Territory,2020,31963,Total,1349129
+Northern Territory,2021,31942,Total,1349129
+Northern Territory,2022,31903,Total,1349129
+Northern Territory,2023,31873,Total,1349129
+Northern Territory,2024,31811,Total,1349129
+Other Territories,1750,3894,Total,250
+Other Territories,1990,3167,Total,250
+Other Territories,1991,3154,Total,250
+Other Territories,1992,3158,Total,250
+Other Territories,1993,3171,Total,250
+Other Territories,1994,3186,Total,250
+Other Territories,1995,3182,Total,250
+Other Territories,1996,3172,Total,250
+Other Territories,1997,3172,Total,250
+Other Territories,1998,3172,Total,250
+Other Territories,1999,3179,Total,250
+Other Territories,2000,3189,Total,250
+Other Territories,2001,3201,Total,250
+Other Territories,2002,3204,Total,250
+Other Territories,2003,3194,Total,250
+Other Territories,2004,3185,Total,250
+Other Territories,2005,3174,Total,250
+Other Territories,2006,3179,Total,250
+Other Territories,2007,3177,Total,250
+Other Territories,2008,3177,Total,250
+Other Territories,2009,3177,Total,250
+Other Territories,2010,3186,Total,250
+Other Territories,2011,3209,Total,250
+Other Territories,2012,3217,Total,250
+Other Territories,2013,3207,Total,250
+Other Territories,2014,3191,Total,250
+Other Territories,2015,3186,Total,250
+Other Territories,2016,3187,Total,250
+Other Territories,2017,3188,Total,250
+Other Territories,2018,3185,Total,250
+Other Territories,2019,3178,Total,250
+Other Territories,2020,3169,Total,250
+Other Territories,2021,3176,Total,250
+Other Territories,2022,3186,Total,250
+Other Territories,2023,3204,Total,250
+Other Territories,2024,3203,Total,250
+Queensland,1750,44662,Total,1730648
+Queensland,1990,38954,Total,1730648
+Queensland,1991,38909,Total,1730648
+Queensland,1992,39007,Total,1730648
+Queensland,1993,39138,Total,1730648
+Queensland,1994,39237,Total,1730648
+Queensland,1995,39157,Total,1730648
+Queensland,1996,39115,Total,1730648
+Queensland,1997,38994,Total,1730648
+Queensland,1998,38988,Total,1730648
+Queensland,1999,39000,Total,1730648
+Queensland,2000,38991,Total,1730648
+Queensland,2001,39047,Total,1730648
+Queensland,2002,39166,Total,1730648
+Queensland,2003,39240,Total,1730648
+Queensland,2004,39271,Total,1730648
+Queensland,2005,39174,Total,1730648
+Queensland,2006,39172,Total,1730648
+Queensland,2007,39161,Total,1730648
+Queensland,2008,39128,Total,1730648
+Queensland,2009,39072,Total,1730648
+Queensland,2010,38956,Total,1730648
+Queensland,2011,38940,Total,1730648
+Queensland,2012,38964,Total,1730648
+Queensland,2013,39153,Total,1730648
+Queensland,2014,39195,Total,1730648
+Queensland,2015,39224,Total,1730648
+Queensland,2016,39027,Total,1730648
+Queensland,2017,39037,Total,1730648
+Queensland,2018,39063,Total,1730648
+Queensland,2019,39176,Total,1730648
+Queensland,2020,39060,Total,1730648
+Queensland,2021,39017,Total,1730648
+Queensland,2022,38984,Total,1730648
+Queensland,2023,39036,Total,1730648
+Queensland,2024,38948,Total,1730648
+South Australia,1750,34274,Total,983482
+South Australia,1990,29950,Total,983482
+South Australia,1991,29970,Total,983482
+South Australia,1992,30017,Total,983482
+South Australia,1993,30134,Total,983482
+South Australia,1994,30223,Total,983482
+South Australia,1995,30201,Total,983482
+South Australia,1996,30168,Total,983482
+South Australia,1997,30076,Total,983482
+South Australia,1998,30108,Total,983482
+South Australia,1999,30161,Total,983482
+South Australia,2000,30126,Total,983482
+South Australia,2001,30205,Total,983482
+South Australia,2002,30291,Total,983482
+South Australia,2003,30357,Total,983482
+South Australia,2004,30384,Total,983482
+South Australia,2005,30284,Total,983482
+South Australia,2006,30318,Total,983482
+South Australia,2007,30257,Total,983482
+South Australia,2008,30294,Total,983482
+South Australia,2009,30256,Total,983482
+South Australia,2010,30219,Total,983482
+South Australia,2011,30155,Total,983482
+South Australia,2012,30147,Total,983482
+South Australia,2013,30207,Total,983482
+South Australia,2014,30251,Total,983482
+South Australia,2015,30243,Total,983482
+South Australia,2016,30115,Total,983482
+South Australia,2017,30138,Total,983482
+South Australia,2018,30182,Total,983482
+South Australia,2019,30300,Total,983482
+South Australia,2020,30205,Total,983482
+South Australia,2021,30167,Total,983482
+South Australia,2022,30093,Total,983482
+South Australia,2023,30155,Total,983482
+South Australia,2024,30097,Total,983482
+Tasmania,1750,21605,Total,68401
+Tasmania,1990,17378,Total,68401
+Tasmania,1991,17399,Total,68401
+Tasmania,1992,17406,Total,68401
+Tasmania,1993,17505,Total,68401
+Tasmania,1994,17551,Total,68401
+Tasmania,1995,17554,Total,68401
+Tasmania,1996,17493,Total,68401
+Tasmania,1997,17401,Total,68401
+Tasmania,1998,17376,Total,68401
+Tasmania,1999,17446,Total,68401
+Tasmania,2000,17529,Total,68401
+Tasmania,2001,17609,Total,68401
+Tasmania,2002,17638,Total,68401
+Tasmania,2003,17589,Total,68401
+Tasmania,2004,17553,Total,68401
+Tasmania,2005,17448,Total,68401
+Tasmania,2006,17435,Total,68401
+Tasmania,2007,17395,Total,68401
+Tasmania,2008,17398,Total,68401
+Tasmania,2009,17423,Total,68401
+Tasmania,2010,17524,Total,68401
+Tasmania,2011,17612,Total,68401
+Tasmania,2012,17642,Total,68401
+Tasmania,2013,17553,Total,68401
+Tasmania,2014,17508,Total,68401
+Tasmania,2015,17488,Total,68401
+Tasmania,2016,17519,Total,68401
+Tasmania,2017,17535,Total,68401
+Tasmania,2018,17568,Total,68401
+Tasmania,2019,17593,Total,68401
+Tasmania,2020,17512,Total,68401
+Tasmania,2021,17473,Total,68401
+Tasmania,2022,17521,Total,68401
+Tasmania,2023,17644,Total,68401
+Tasmania,2024,17692,Total,68401
+Victoria,1750,28337,Total,227416
+Victoria,1990,23073,Total,227416
+Victoria,1991,23064,Total,227416
+Victoria,1992,23094,Total,227416
+Victoria,1993,23236,Total,227416
+Victoria,1994,23329,Total,227416
+Victoria,1995,23287,Total,227416
+Victoria,1996,23215,Total,227416
+Victoria,1997,23139,Total,227416
+Victoria,1998,23161,Total,227416
+Victoria,1999,23219,Total,227416
+Victoria,2000,23248,Total,227416
+Victoria,2001,23351,Total,227416
+Victoria,2002,23447,Total,227416
+Victoria,2003,23402,Total,227416
+Victoria,2004,23387,Total,227416
+Victoria,2005,23259,Total,227416
+Victoria,2006,23306,Total,227416
+Victoria,2007,23230,Total,227416
+Victoria,2008,23271,Total,227416
+Victoria,2009,23272,Total,227416
+Victoria,2010,23339,Total,227416
+Victoria,2011,23388,Total,227416
+Victoria,2012,23403,Total,227416
+Victoria,2013,23343,Total,227416
+Victoria,2014,23271,Total,227416
+Victoria,2015,23247,Total,227416
+Victoria,2016,23223,Total,227416
+Victoria,2017,23248,Total,227416
+Victoria,2018,23290,Total,227416
+Victoria,2019,23348,Total,227416
+Victoria,2020,23226,Total,227416
+Victoria,2021,23205,Total,227416
+Victoria,2022,23200,Total,227416
+Victoria,2023,23332,Total,227416
+Victoria,2024,23332,Total,227416
+Western Australia,1750,51281,Total,2529875
+Western Australia,1990,44970,Total,2529875
+Western Australia,1991,44897,Total,2529875
+Western Australia,1992,44925,Total,2529875
+Western Australia,1993,45074,Total,2529875
+Western Australia,1994,45124,Total,2529875
+Western Australia,1995,45066,Total,2529875
+Western Australia,1996,44971,Total,2529875
+Western Australia,1997,44853,Total,2529875
+Western Australia,1998,44834,Total,2529875
+Western Australia,1999,44825,Total,2529875
+Western Australia,2000,44862,Total,2529875
+Western Australia,2001,44948,Total,2529875
+Western Australia,2002,45126,Total,2529875
+Western Australia,2003,45133,Total,2529875
+Western Australia,2004,45175,Total,2529875
+Western Australia,2005,45066,Total,2529875
+Western Australia,2006,45044,Total,2529875
+Western Australia,2007,45058,Total,2529875
+Western Australia,2008,44998,Total,2529875
+Western Australia,2009,44906,Total,2529875
+Western Australia,2010,44823,Total,2529875
+Western Australia,2011,44867,Total,2529875
+Western Australia,2012,44962,Total,2529875
+Western Australia,2013,45086,Total,2529875
+Western Australia,2014,45112,Total,2529875
+Western Australia,2015,45086,Total,2529875
+Western Australia,2016,44925,Total,2529875
+Western Australia,2017,44916,Total,2529875
+Western Australia,2018,44958,Total,2529875
+Western Australia,2019,45033,Total,2529875
+Western Australia,2020,44927,Total,2529875
+Western Australia,2021,44876,Total,2529875
+Western Australia,2022,44843,Total,2529875
+Western Australia,2023,44882,Total,2529875
+Western Australia,2024,44846,Total,2529875
