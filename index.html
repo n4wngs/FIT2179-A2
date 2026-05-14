@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
   <title>Threatened species in Australia</title>
 </head>
 <body>
@@ -14,7 +14,7 @@
 
   <script type="text/javascript">
     // 2. Point to your JSON spec file
-    var spec = "js/tsx.json"; 
+    var spec = "js/world.json"; 
     
     // 3. Link the function to the 'vis' ID above
     vegaEmbed('#vis', spec).then(function(result) {
